@@ -1,0 +1,57 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl fabric
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.483137 0.376471 0.323137
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\External activities\Comp\18-19Comp\MakerHachtoon CODE GIEST\Ready3DModels\Bed\d1.jpg
+
+newmtl st_leather
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.652549 0.724706 0.611765
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\External activities\Comp\18-19Comp\MakerHachtoon CODE GIEST\Ready3DModels\Bed\leather5.jpg
+
+newmtl st_textile
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.683922 0.445490 0.323137
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\External activities\Comp\18-19Comp\MakerHachtoon CODE GIEST\Ready3DModels\Bed\cloth_22.jpg
+
+newmtl st_tile_dark
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.793725 0.784314 0.712157
+Ks 0.313726 0.313726 0.313726
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\External activities\Comp\18-19Comp\MakerHachtoon CODE GIEST\Ready3DModels\Bed\leather7.jpg
+
+newmtl st_wood
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.727843 0.624314 0.448627
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\External activities\Comp\18-19Comp\MakerHachtoon CODE GIEST\Ready3DModels\Bed\n_cherry.jpg
