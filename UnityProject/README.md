@@ -20,7 +20,7 @@ wARney is a Social Augmented Reality Platform that takes your AR experience to a
           wARney is a Social Augmented Reality Platform that takes your AR experience to a whole new level.
               </td> 
               <td>
-             GNU AGPLv3
+             <a href="https://github.com/wAReny/wAReny/blob/master/LICENSE"> Proprietary </a>
               </td> 
               <td>
           Egypt
