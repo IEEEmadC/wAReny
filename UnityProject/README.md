@@ -12,8 +12,7 @@ wARney is a Social Augmented Reality Platform that takes your AR experience to a
        <tr>
          <td>
             <a href="https://github.com/wAReny/wAReny/blob/master/UnityProject/APK%20LINK">App Link</a>
-          </td> 
-              
+          </td>    
               <td>
             wAReny
               </td> 
